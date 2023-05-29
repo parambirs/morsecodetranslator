@@ -1,7 +1,7 @@
 Morse Code Translator
 =====================
 
-A Java Swing GUI desktop app that can translate English text to 
+A Kotlin Swing GUI desktop app that can translate English text to 
 Morse and vice-versa.
 
 How to run the application
