@@ -4,6 +4,8 @@ Morse Code Translator
 A Kotlin Swing GUI desktop app that can translate English text to 
 Morse and vice-versa.
 
+![Screenshot](screenshot.png)
+
 How to run the application
 ==========================
 
@@ -16,6 +18,7 @@ Usage
 
 English to Morse Code
 ---------------------
+
 Type English text in the text area provided. When you press
 space bar, the text will automatically be converted into
 Morse code and displayed in the text area to the right. Each
@@ -25,6 +28,7 @@ generated morse code.
 
 Morse Code to English
 ---------------------
+
 You can clear the existing morse code in the text area with 
 a button at the bottom of the app. 
 
