@@ -23,5 +23,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("io.github.parambirs.morse.MorseCodeTranslatorKt")
+    mainClass.set("io.github.parambirs.morse.MainApplicationKt")
 }
